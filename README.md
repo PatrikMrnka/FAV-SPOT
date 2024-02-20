@@ -13,12 +13,21 @@ Pokud tomu tak není, nebu tam nejste, nebo chcete aby to bylo jinak, napište m
 [TODO soubor](todo.md)
 
 [Jakub Štrunc](https://github.com/Holub-Patrik/FAV-SPOT/tree/person/jstrunc)
+
 [Lukáš Pláteník](https://github.com/Holub-Patrik/FAV-SPOT/tree/person/platenik)
+
 [Vojtěch Nosek](https://github.com/Holub-Patrik/FAV-SPOT/tree/person/nosekv)
+
 [Matouš Andrlík](https://github.com/Holub-Patrik/FAV-SPOT/tree/person/matik)
+
 [Adam Března](https://github.com/Holub-Patrik/FAV-SPOT/tree/person/breznaa)
+
 [Lukáš Landgráf](https://github.com/Holub-Patrik/FAV-SPOT/tree/person/langosh)
+
 [Matěj Bartička](https://github.com/Holub-Patrik/FAV-SPOT/tree/person/matejbar)
+
 [Roman Kožnár](https://github.com/Holub-Patrik/FAV-SPOT/tree/person/rkoznar)
+
 [Patrik Mrnka](https://github.com/Holub-Patrik/FAV-SPOT/tree/person/patmrnka)
+
 [Patrik Holub](https://github.com/Holub-Patrik/FAV-SPOT/tree/person/holubpat)
