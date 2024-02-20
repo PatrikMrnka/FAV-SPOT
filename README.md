@@ -1,4 +1,4 @@
-# FAV-SPOT
-Naše semestrální práce na spotovi
-
-Momentálně je třeba zjistit co a jak se bude muset udělat -> Soubor todo
+# SPOT
+Hlavni kód spota, věci se sem budou dávat pouze jako pull request
+Pokud nekdo budete chtit neco na spota programovat, prosim vytvorte novnou branch, s odpovidajicim nazvem.
+Pokud kod requestem bude funkcni, pridame ho.
