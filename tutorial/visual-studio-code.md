@@ -33,8 +33,10 @@ Potom napíšete nějakou blbost to místa nad tlačítkem commit
 
 ![Celý obrázek](./pictures/source-almost.png)
 
-Ted' stisknete commit a buď se talčítko změní na Push changes nebo se vám objeví něco takového:
+Ted' stisknete commit a buď se talčítko změní na Sync Changes nebo se vám objeví něco takového:
 
 ![Push](./pictures/commit-push.png)
 
 Tady je vedle názvu branch vidět čára s tečkou a šipkou nahoru. Tu stiskněte a změny se projeví na GitHubu
+
+Pokud jsou kdekoliv nejasnosti, nebo něco nefunguje, napište, pošlete fotky. Získat čistou instalaci VSCode je skoro nemožné bez reinstalace systému. Tudíž jakékoliv screenshoty nebo doplňující informace velmi vítám
