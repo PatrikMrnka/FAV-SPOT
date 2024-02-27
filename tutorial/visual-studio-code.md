@@ -33,5 +33,8 @@ Potom napíšete nějakou blbost to místa nad tlačítkem commit
 
 ![Celý obrázek](./pictures/source-almost.png)
 
-Ted' stisknete commit
+Ted' stisknete commit a buď se talčítko změní na Push changes nebo se vám objeví něco takového:
 
+![Push](./pictures/commit-push.png)
+
+Tady je vedle názvu branch vidět čára s tečkou a šipkou nahoru. Tu stiskněte a změny se projeví na GitHubu
